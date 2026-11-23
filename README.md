@@ -30,79 +30,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The computer vision and posture tracking market is valued between **$350 million and $1.5 billion** (spanning digital posture analytics and ergonomic AI tools, nested inside the broader $20B+ computer vision and $25B+ ergonomic workplace solutions ecosystems) and is growing at an estimated **8% to 18% CAGR**. The sector is currently **moderately to highly fragmented** across specialized niche software vendors, digital health/tele-rehabilitation providers, and industrial safety platforms, though foundational data infrastructure and enterprise safety workflows show emerging pockets of consolidation around major AI platform providers.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Roboflow](https://roboflow.com)**  
-
-  End-to-end cloud computer vision platform supporting keypoint/skeleton annotation, custom YOLO-Pose dataset training, and serverless/edge posture inference APIs.
-
-
-
-- **[Encord](https://encord.com)**  
-
-  AI-assisted data engine and multimodal annotation platform featuring automated skeletal keypoint interpolation, frame-to-frame pose tracking, and model evaluation.
-
-
-
-- **[Labelbox](https://labelbox.com)**  
-
-  Enterprise data-centric AI platform offering customizable skeletal keypoint templates, model-assisted pose labeling, and human-in-the-loop quality review.
-
-
-
-- **[V7 Labs (V7 Darwin)](https://v7labs.com)**  
-
-  Cloud computer vision training data platform supporting sub-pixel keypoint placement, temporal pose tracking across video sequences, and automated QA workflows.
-
-
-
-- **[SuperAnnotate](https://superannotate.com)**  
-
-  Enterprise annotation and AI data platform enabling multi-person skeletal keypoint labeling, occluded joint tagging, and custom ML pipeline integrations.
-
-
-
-- **[Dataloop](https://dataloop.ai)**  
-
-  Cloud data management and automated video annotation environment uniting keypoint skeleton labeling, active learning loops, and deployment pipelines.
-
-
-
-- **[Landing AI (LandingLens)](https://landing.ai)**  
-
-  Visual inspection and computer vision platform supporting ergonomic workplace monitoring, worker safety posture compliance, and edge camera deployment.
-
-
-
-- **[Scale AI (Nucleus & Rapid)](https://scale.com)**  
-
-  Enterprise AI data infrastructure platform delivering high-volume 2D/3D human pose and biomechanical keypoint annotation for robotics, sports, and AR/VR.
-
-
-
-- **[Chooch](https://chooch.com)**  
-
-  Enterprise edge-to-cloud vision AI platform offering real-time ergonomic safety monitoring, fall detection, and workplace posture analytics on CCTV streams.
-
-
-
-- **[Clarifai](https://clarifai.com)**  
-
-  Full-stack cloud AI platform providing pre-trained human pose estimation workflows, custom keypoint model training, and multi-cloud inference APIs.
+| Platform | Company Size (Valuation / Revenue) | Description | Pricing (Starting Tier) | Free Tier Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Scale AI (Nucleus & Rapid)](https://scale.com)** | **$29.0B Valuation** (~$1.0B Revenue) | Enterprise AI data infrastructure delivering high-volume 2D/3D human pose and biomechanical keypoint annotation. | **$0.05 / task** (Rapid pay-as-you-go self-serve; custom enterprise tiers for high-volume pipelines) | **200 free labeling units/month** on Scale Rapid self-serve. |
+| **[Labelbox](https://labelbox.com)** | **$1.25B Valuation** (~$35M–$50M Revenue) | Enterprise data-centric AI platform offering customizable skeletal keypoint templates and pose labeling. | **$0.10 / LBU** (Labelbox Unit on consumption Starter tier; custom annual commitments for Enterprise) | **500 free LBUs/month**, up to 30 users, and 1,500 API calls/minute. |
+| **[Clarifai](https://clarifai.com)** | **$775M Valuation** (~$10M–$16M Revenue) | Full-stack cloud AI platform providing pre-trained human pose estimation workflows and custom keypoint training. | **$30.00 / month** (Essential tier; Professional at $300/mo, custom Enterprise) | **Free Community Plan forever**: 1 application and up to 1,000 monthly inputs/operations. |
+| **[Encord](https://encord.com)** | **$550M Valuation** (~$15M+ Revenue) | AI-assisted data engine and multimodal annotation platform featuring automated skeletal keypoint interpolation. | **$1,500.00 / month** (Starting annual contract tier (~$18k/yr minimum); custom quotes based on indexed video/frames & seats) | **Free trial / PoC pilot available on demo request** (typically 14-day evaluation for custom enterprise pilot datasets). |
+| **[Landing AI (LandingLens)](https://landing.ai)** | **$300M Valuation** (~$15M–$30M Revenue) | Visual inspection and computer vision platform supporting ergonomic workplace monitoring and worker safety posture compliance. | **$39.00 / month** (Starting paid tier for cloud deployment; custom pricing for enterprise edge) | **Free Plan forever**: 1,000 credits/month, up to 3 users, 1 active model download (non-commercial use). |
+| **[Roboflow](https://roboflow.com)** | **$200M Valuation** (~$12M Revenue) | End-to-end cloud computer vision platform supporting keypoint/skeleton annotation and custom YOLO-Pose model training. | **$39.00 / month** (Starter Credit Pack; custom quotes for Enterprise) | **Free Plan forever**: 10 monthly credits, 3 private projects, up to 10,000 images, public workspace sharing. |
+| **[SuperAnnotate](https://superannotate.com)** | **$175M Valuation** (~$10M–$15M Revenue) | Enterprise annotation and AI data platform enabling multi-person skeletal keypoint labeling and occluded joint tagging. | **$150.00 / month** (Starting custom Starter tier with 1,000 Orchestrate compute hours; billed annually via sales quote) | **Free Starter plan**: Up to 5,000 items and 3 team members. |
+| **[V7 Labs (V7 Darwin)](https://v7labs.com)** | **$150M Valuation** (~$8M–$12M Revenue) | Cloud computer vision training data platform supporting sub-pixel keypoint placement and temporal pose tracking. | **$499.00 / month** (Starter/Team tier billed annually at $5,400/yr; includes 1 workspace, 3 seats, 50k files) | **14-day free trial on demo request** with full feature access and platform evaluation limits. |
+| **[Dataloop](https://dataloop.ai)** | **$120M Acquisition** (~$10M Revenue) | Cloud data management and automated video annotation environment uniting keypoint skeleton labeling with pipelines. | **$500.00 / month** (Custom entry subscription based on studio user time and data ingestion volume) | **Free developer account with 14-day pilot evaluation** upon guided demo onboarding. |
+| **[Chooch](https://chooch.com)** | **$80M Valuation** (~$10M Revenue) | Enterprise edge-to-cloud vision AI platform offering real-time ergonomic safety monitoring and posture analytics on CCTV. | **$100.00 / month** (Starting API entry plan and edge stream licensing; custom quotes for enterprise plants) | **Free account forever** with introductory recurring $5/month AI usage credit and ReadyNow™ model exploration. |
 
 
 
