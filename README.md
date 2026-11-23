@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Posture-Tracking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Vision-Posture-Tracking?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Posture-Tracking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Vision-Posture-Tracking?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Posture-Tracking/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Computer-Vision-Posture-Tracking?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Posture-Tracking/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -79,7 +79,7 @@ The following SaaS and hosted platforms provide scalable keypoint annotation, po
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the premier open-source repositories for human pose estimation, real-time webcam posture tracking, and biomechanical video analysis. Sorted by **GitHub Star Count descending**:
+Explore the premier open-source repositories for human pose estimation, real-time webcam posture tracking, and biomechanical video analysis. Sorted by **GitHub Stars_Count descending**:
 
 - **[Ultralytics YOLO-Pose](https://github.com/ultralytics/ultralytics)** [![Stars](https://img.shields.io/github/stars/ultralytics/ultralytics?style=social&color=white)](https://github.com/ultralytics/ultralytics/stargazers)  
   Industry-standard real-time multi-person keypoint detection and postural pose tracking framework with instant ONNX, TensorRT, CoreML, and edge mobile deployment.
@@ -189,7 +189,7 @@ Contributions are warmly welcomed! Help keep this repository up-to-date by submi
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b feature/add-new-posture-tool`).
-3. 📝 **Edit `README.md`**: Follow the established formatting (include links, star badges with `style=social&color=white`, and factual descriptions).
+3. 📝 **Edit `README.md`**: Follow the established formatting (include links, Stars_Badges with `style=social&color=white`, and factual descriptions).
 4. 📬 **Open a Pull Request** with a brief summary of what you added and why it benefits the community.
 
 ---
